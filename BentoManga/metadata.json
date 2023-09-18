@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"id": "287239446301114379",
+		"name": "bdslejordan"
+	},
+	"service": "BentoManga",
+	"description": {
+		"en": "Bentômanga is a free platform where users can share and discover different works from the world of manga, manhua and manhwa.",
+		"fr": "Bentômanga est une plateforme libre où les utilisateurs peuvent partager et découvrir différentes œuvres issues de l'univers manga, manhua et manhwa. "
+	},
+	"url": "bentomanga.com",
+	"version": "1.0.0",
+	"logo": "https://i.imgur.com/oZ0QH0l.png",
+	"thumbnail": "https://i.imgur.com/YcoskKU.png",
+	"color": "#91BC60",
+	"category": "anime",
+	"tags": [
+		"manga",
+		"reading"
+	]
+}
